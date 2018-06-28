@@ -3,6 +3,9 @@
 Regions vs Availability Zones
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 
+Best practices for AWS Lambda
+https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/
+
 Serverless web app with api gateway and lambda
 https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 
