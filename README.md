@@ -7,7 +7,7 @@ Full Stack Serverless Web Apps with AWS
 https://medium.com/99xtechnology/full-stack-serverless-web-apps-with-aws-189d87da024a
 https://codeburst.io/deploying-angular-react-apps-in-aws-ec55a4fb7446
 
-serverless web app on AWS
+*** serverless web app on AWS
 https://zugdud.io/index.php/2017/10/16/hello-serverless-web-app/
 
 AWS Code Commit branches with Access Control
