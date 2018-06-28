@@ -30,3 +30,6 @@ https://forums.aws.amazon.com/thread.jspa?threadID=61191
 
 AWS Serverless
 https://aws.amazon.com/serverless/
+
+AWS Route 53 - Doing Constant Work to Avoid Failures
+https://aws.amazon.com/blogs/architecture/doing-constant-work-to-avoid-failures/
