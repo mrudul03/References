@@ -6,6 +6,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-z
 Best practices for AWS Lambda
 https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/
 
+### AWS Lambda
+
 Serverless web app with api gateway and lambda
 https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 
@@ -16,16 +18,22 @@ https://codeburst.io/deploying-angular-react-apps-in-aws-ec55a4fb7446
 *** serverless web app on AWS
 https://zugdud.io/index.php/2017/10/16/hello-serverless-web-app/
 
+### DevOps
+
 AWS Code Commit branches with Access Control
 https://aws.amazon.com/blogs/devops/refining-access-to-branches-in-aws-codecommit/
 
+Managing multi-environment serverless architecture using AWS — an investigation
+https://hackernoon.com/managing-multi-environment-serverless-architecture-using-aws-an-investigation-6cd6501d261e
+
+### Infra
 Serverless web app with api gateway and lambda 
 https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 
 Building a Serverless Dynamic DNS System with AWS
 https://aws.amazon.com/blogs/startups/building-a-serverless-dynamic-dns-system-with-aws/
 
-AWS Elastic oad Balancer for serverless UI
+AWS Elastic Load Balancer for serverless UI
 https://forums.aws.amazon.com/thread.jspa?threadID=61191
 
 AWS Serverless
