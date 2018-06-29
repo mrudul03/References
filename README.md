@@ -20,6 +20,8 @@ https://zugdud.io/index.php/2017/10/16/hello-serverless-web-app/
 
 Running APIs Written in Java on AWS Lambda (Spring, SpringBoot, Jersey)
 https://aws.amazon.com/blogs/opensource/java-apis-aws-lambda/
+https://github.com/awslabs/aws-serverless-java-container/wiki
+https://github.com/awslabs/aws-serverless-java-container
 
 ### DevOps
 
